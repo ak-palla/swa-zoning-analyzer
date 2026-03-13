@@ -1,0 +1,7 @@
+{
+  "name": "SWA Zoning Analyzer",
+  "description": "A professional architectural tool for analyzing NYC zoning districts, lot geometry, and massing potential including City of Yes bonuses.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

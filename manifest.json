@@ -1,0 +1,17 @@
+{
+  "name": "SWA Zoning Analyzer",
+  "short_name": "SWA Zoning",
+  "description": "Professional architectural tool for NYC zoning analysis, including City of Yes bonuses and 3D massing.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f7f6",
+  "theme_color": "#0088bb",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1087/1087815.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
